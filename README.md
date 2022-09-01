@@ -1,4 +1,4 @@
-### Welcome to Hell, how may I take your order?
+# Welcome to Hell, how may I take your order?
 
 ## Discord
 
